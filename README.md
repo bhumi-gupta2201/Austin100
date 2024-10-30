@@ -1,0 +1,3 @@
+- Scraped user and repository data using the GitHub API for users in Austin with over 100 followers.
+- Found that most developers in Austin prefer JavaScript and MIT license is the most popular.
+- Recommend developers focus on contributing to popular languages and enable features like projects and wikis for better visibility.
