@@ -1,3 +1,15 @@
-- Scraped user and repository data using the GitHub API for users in Austin with over 100 followers.
-- Found that most developers in Austin prefer JavaScript and MIT license is the most popular.
-- Recommend developers focus on contributing to popular languages and enable features like projects and wikis for better visibility.
+# GitHub Users in Austin
+
+This repository contains data about GitHub users in Austin with over 100 followers and their repositories.
+
+## Files
+
+1. **users.csv**: Contains information about 476 GitHub users in Austin with over 100 followers.
+2. **repositories.csv**: Contains information about 41305 public repositories from these users.
+
+## Data Collection
+
+- Data collected using GitHub API.
+- Date of collection: 2024-10-30.
+- Only included users with 100+ followers.
+- Up to 500 most recently pushed repositories per user.
